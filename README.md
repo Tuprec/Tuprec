@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tuprec
+- 👀 I’m interested in c#
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on c# project
